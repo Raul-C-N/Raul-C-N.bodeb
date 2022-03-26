@@ -1,3 +1,11 @@
-body {background-color: white;text-align: center;}
-p    {color: black; font-size: 16 px;}
-pre {font-family: "Times New Roman", Times, serif;}
+<style>
+body {
+    background-color: rgb(9, 24, 6);text-align: center;
+}
+p    {
+    color: rgb(0, 240, 80); font-size: 16 px;
+}
+pre {
+    font-family: monospace, Times, serif;
+}
+</style>
